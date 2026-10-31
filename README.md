@@ -105,7 +105,7 @@ To explore or run this project locally:
 ## Live Demo
 Live App - https://tax-app-lime.vercel.app
 
-Product Specification (taxprd.md) - [docs](taxprd.md)
+Product Specification (taxprd.md) - [taxprd.md](docs/taxprd.md)
 
 ----
 
